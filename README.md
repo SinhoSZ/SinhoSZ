@@ -7,5 +7,5 @@
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailsonjose/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jailsonjose/)
-[![The Huxley](https://img.shields.io/badge/The_Huxley-Top_150-FF5733?style=for-the-badge&logo=the-huxley&logoColor=white)](https://www.thehuxley.com.br)
+[![The Huxley](https://img.shields.io/badge/The_Huxley-Top_120-FF5733?style=for-the-badge&logo=the-huxley&logoColor=white)](https://thehuxley.com/profile/48059)
 
