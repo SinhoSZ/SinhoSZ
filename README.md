@@ -1,7 +1,7 @@
 ### Hi! I'm Jailson 👋
 <p align="center">
 <a href="https://github.com/SinhoSZ">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=1000&height=120&lines=SinhoSZ;Jailson+José+%7C+26y;Software+engineer+Student%7C;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=1000&height=120&lines=SinhoSZ;Jailson+José+%7C+27y;Software+engineer+Student%7C;" alt="Typing SVG" />
 </a>
 <br/>
 
